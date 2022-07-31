@@ -88,3 +88,19 @@ body {
   border-radius: 50%;
   background-color: red;
 }
+
+
+.grid-example{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  place-content: center;
+  place-items: center;
+  background-color: aliceblue;
+  padding: 1rem;
+  margin: 0 8rem;
+  border: 1px solid grey;
+}
+
+.hotel-title{
+  text-align: center;
+}

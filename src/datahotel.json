@@ -1,0 +1,28 @@
+{
+  "data": {
+    "hotel_data": {
+      "values": [
+        {
+          "id": "dasd",
+          "name": "sdasadas",
+          "rating": 3
+        },
+        {
+          "id": "sda",
+          "name": "dsada",
+          "rating": 115
+        },
+        {
+          "id": "daffsd",
+          "name": "sdasaffdas",
+          "rating": 3
+        },
+        {
+          "id": "sadsa",
+          "name": "hotel4",
+          "rating": 3
+        }
+      ]
+    }
+  }
+}
